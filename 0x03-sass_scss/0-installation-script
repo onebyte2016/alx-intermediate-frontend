@@ -1,0 +1,13 @@
+# Installation Script for Windows
+
+# Step 1: Download and install Node.js v20.16.0 from https://nodejs.org/en/download
+
+# Step 2: Verify installation
+node -v
+npm -v
+
+# Step 3: Install Dart Sass (latest stable version)
+npm install sass
+
+# (Optional) Install globally:
+# npm install -g sass
